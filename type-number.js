@@ -22,3 +22,9 @@ console.log(novaOperacao)
 
 const alura = "alura";
 console.log(alura*numero1)
+
+const soma = 10 + 10;
+const multiplicacao = 10 * 10;
+const operacao = (soma + multiplicacao) + 10;
+
+console.log(operacao)
